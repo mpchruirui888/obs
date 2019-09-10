@@ -3,13 +3,13 @@
 
 一：安装SDK
 
- ```composer require obs/esdk-obs-php```![1568108914254](https://github.com/mpchruirui888/obs/images/1568108914254.png)
+ ```composer require obs/esdk-obs-php```![1568108914254](https://github.com/mpchruirui888/obs/img/1568108914254.png)
 
 二：安装项目目录会多出来**vendor**目录
 
 三：本地增加h5文件和PHP文件进行上传
 
-![1568109081918](https://github.com/mpchruirui888/obs/images/1568109081918.png)
+![1568109081918](https://github.com/mpchruirui888/obs/img/1568109081918.png)
 
 四：实例化类配置参数进行测试
 
